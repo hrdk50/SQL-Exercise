@@ -1,0 +1,6 @@
+C:\Radixweb\New folder\SQL-Exercise\Module_13\ClrPractice\bin\Debug\ClrPractice.dacpac
+C:\Radixweb\New folder\SQL-Exercise\Module_13\ClrPractice\bin\Debug\ClrPractice.dll
+C:\Radixweb\New folder\SQL-Exercise\Module_13\ClrPractice\bin\Debug\ClrPractice.pdb
+C:\Radixweb\New folder\SQL-Exercise\Module_13\ClrPractice\obj\Debug\ClrPractice.sqlprojAssemblyReference.cache
+C:\Radixweb\New folder\SQL-Exercise\Module_13\ClrPractice\obj\Debug\ClrPractice.dll
+C:\Radixweb\New folder\SQL-Exercise\Module_13\ClrPractice\obj\Debug\ClrPractice.pdb

@@ -1,0 +1,6 @@
+C:\Radixweb\New folder\SQL-Exercise\Module_13\ClrDemo\bin\Debug\ClrDemo.dacpac
+C:\Radixweb\New folder\SQL-Exercise\Module_13\ClrDemo\bin\Debug\ClrDemo.dll
+C:\Radixweb\New folder\SQL-Exercise\Module_13\ClrDemo\bin\Debug\ClrDemo.pdb
+C:\Radixweb\New folder\SQL-Exercise\Module_13\ClrDemo\obj\Debug\ClrDemo.sqlprojAssemblyReference.cache
+C:\Radixweb\New folder\SQL-Exercise\Module_13\ClrDemo\obj\Debug\ClrDemo.dll
+C:\Radixweb\New folder\SQL-Exercise\Module_13\ClrDemo\obj\Debug\ClrDemo.pdb
